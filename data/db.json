@@ -1,0 +1,44 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 14",
+            "price": "₹120000",
+            "category": "mobile",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR828B4tZJyQgakfNHsn0VKm3hgFYxNqc7KtA&s",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa facere obcaecati reprehenderit ea blanditiis amet doloribus quis, earum provident ducimus dicta debitis voluptatem fugiat dolor repudiandae cupiditate perferendis perspiciatis. Animi."
+        },
+        {
+            "id": 2,
+            "name": "Samsung S23 Ultra",
+            "price": "₹124000",
+            "category": "mobile",
+            "img": "https://www.91-img.com/gallery_images_uploads/e/9/e97364740f33139f0fc99bd719ee318f1b65c192.jpg?tr=h-271,c-at_max,q-70,pr-true",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa facere obcaecati reprehenderit ea blanditiis amet doloribus quis, earum provident ducimus dicta debitis voluptatem fugiat dolor repudiandae cupiditate perferendis perspiciatis. Animi."
+        },
+        {
+            "id": 3,
+            "name": "LG TV",
+            "price": "₹24000",
+            "category": "tv",
+            "img": "https://img-prd-pim.poorvika.com/product/LG-4k-ultra-hd-smart-qned-ai-tv-qned82t-55-inch-Front-Side-View.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa facere obcaecati reprehenderit ea blanditiis amet doloribus quis, earum provident ducimus dicta debitis voluptatem fugiat dolor repudiandae cupiditate perferendis perspiciatis. Animi."
+        },
+        {
+            "id": 4,
+            "name": "iWatch",
+            "price": "₹30000",
+            "category": "watch",
+            "img": "https://www.aptronixindia.com/media/catalog/product/cache/31f0162e6f7d821d2237f39577122a8a/t/i/titanium_orange_ocean_band_pdp_image_position-1__en-us-removebg-preview_1.png",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa facere obcaecati reprehenderit ea blanditiis amet doloribus quis, earum provident ducimus dicta debitis voluptatem fugiat dolor repudiandae cupiditate perferendis perspiciatis. Animi."
+        },
+        {
+            "id": 5,
+            "name": "Samsung Washing Machine",
+            "price": "₹35000",
+            "category": "washing_machine",
+            "img": "https://images.samsung.com/is/image/samsung/p6pim/in/ww90dg6u24astl/gallery/in-ww6000d-529739-529739-ww90dg6u24astl-thumb-544511177?$UX_EXT2_PNG$",
+            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa facere obcaecati reprehenderit ea blanditiis amet doloribus quis, earum provident ducimus dicta debitis voluptatem fugiat dolor repudiandae cupiditate perferendis perspiciatis. Animi."
+        }
+    ]
+}
